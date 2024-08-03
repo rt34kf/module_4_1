@@ -4,7 +4,7 @@ def divide(first, second):
     if second != 0:
         return first / second
     else:
-        return 'inf'
+        return inf
 
 result3 = divide(49, 7)
 result4 = divide(15, 0)
